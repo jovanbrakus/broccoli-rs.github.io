@@ -8,6 +8,7 @@
   <title>Broccoli</title>
 
   <link href="https://fonts.googleapis.com/css?family=Muli:200&display=swap&subset=latin-ext" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="./assets/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="./assets/favicon/apple-icon-60x60.png">
@@ -28,8 +29,8 @@
 
   <style>
     html, body {
-      height: 100vh;
-      width: 100vw;
+      height: 100%;
+      width: 100%;
       background: #7dc0b8;
       display: flex;
       flex-direction: column;
@@ -38,7 +39,9 @@
     }
 
     img {
-      height: 33em;
+      max-width: 75vw;
+      height: 20em;
+      margin-bottom: 5em;
     }
 
     h1, h3 {
