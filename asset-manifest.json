@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.082be0b2.chunk.js",
+    "main.js.map": "/static/js/main.082be0b2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
+    "static/js/2.47c91141.chunk.js": "/static/js/2.47c91141.chunk.js",
+    "static/js/2.47c91141.chunk.js.map": "/static/js/2.47c91141.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.24b8066df60545a52d061cfdb2e0c755.js": "/precache-manifest.24b8066df60545a52d061cfdb2e0c755.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.053908e5.svg",
+    "static/media/meni-0.png": "/static/media/meni-0.f23aa6ae.png",
+    "static/media/meni-1.png": "/static/media/meni-1.15fe85e7.png",
+    "static/media/picovnik-0.png": "/static/media/picovnik-0.56138101.png",
+    "static/media/picovnik-1.png": "/static/media/picovnik-1.5a1c8151.png",
+    "static/media/picovnik-2.png": "/static/media/picovnik-2.1014c09b.png",
+    "static/media/picovnik-3.png": "/static/media/picovnik-3.c5b3012e.png",
+    "static/media/picovnik-4.png": "/static/media/picovnik-4.48bce561.png",
+    "static/media/picovnik-5.png": "/static/media/picovnik-5.e5bb9deb.png",
+    "static/media/picovnik-6.png": "/static/media/picovnik-6.6c11c298.png",
+    "static/media/picovnik-7.png": "/static/media/picovnik-7.efcc483d.png"
+  }
+}
